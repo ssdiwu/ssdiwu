@@ -4,7 +4,7 @@ I build workflows and tools for AI agents. Some of my work extends [Pi](https://
 
 I care less about making agents do more things than helping them understand how to start, how to keep going, how to verify their work, and when a task is actually done.
 
-## Pi extensions
+## [Pi extensions](https://pi.dev/packages?name=diwu507)
 
 ### Workflows and collaboration
 
